@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=eb8900&style=flat" alt="shrijit007" /> </p>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="GIF">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="GIF">
 
 - 🎓 I’m currently learning **Problem Solving, DSA.**
 
