@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻Hello, I'm Shrijit Raj!</h1>
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=eb8900&style=flat-square" alt="shrijit007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=eb8900&style=flat" alt="shrijit007" /> </p>
 
 - 🎓 I’m currently learning **Problem Solving, DSA.**
 
