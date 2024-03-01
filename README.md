@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **C++, Java, Python, HTML, CSS, JavaScript, MySQL**
 
-- 📩 Reach me at **shrijitraj2023@gmail.com**
+- 📩 Reach me at **shrijitraj@gmail.com**
 
 - 📄 Know about my experiences [..](..)
 
@@ -33,4 +33,4 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrijit007&theme=merko" alt="shrijit007" /></p>
 
 <p><h3 align="center">Github Contributions:</h3></p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrijit007&bg_color=0d1117&color=4c8a62&line=abd200&point=c4c4c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrijit007&bg_color=0d1117&color=4c8a62&line=abd200&point=c4c4c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
