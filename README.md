@@ -28,9 +28,9 @@
 <p align="left"> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intelliJ" width="40" height="40" /> </a> &nbsp <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="40" height="40" /> </a>  &nbsp  <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" width="40" height="40" /> </a>  &nbsp  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="pyCharm" width="40" height="40" /> </a>
 <img align="right" src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=abd200&style=flat&abbreviated=true" alt="shrijit007" /></p>
 
-<p><h3 align="center">Github Stats:</h3></p>
+<h3 align="center">Github Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrijit007&show_icons=true&theme=merko&locale=en" alt="shrijit007" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrijit007&theme=merko" alt="shrijit007" /></p>
 
-<p><h3 align="center">Github Contributions:</h3>
-</p>
+<p><h3 align="center">Github Contributions:</h3></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrijit007&bg_color=242324&color=487b5c&line=a6d10a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
