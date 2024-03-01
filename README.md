@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [..](..)
 
-- 🍁 **Coding like poetry, should be short and concise.**
+- 🍁 **Code like poetry, should be short and concise.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
