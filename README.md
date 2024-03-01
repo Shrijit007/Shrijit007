@@ -1,8 +1,7 @@
-<h1 align="center">👋🏻Hello, I'm Shrijit Raj!</h1>
+<h1 align="center">Hello👋🏻, I'm Shrijit Raj!</h1>
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=eb8900&style=flat" alt="shrijit007" /> </p>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="GIF" height=400 width=250/>
+<\br>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="GIF" height=300 width=250/>
 
 - 🎓 I’m currently learning **Problem Solving, DSA.**
 
@@ -25,8 +24,11 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> </a>  &nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>  &nbsp <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a>  &nbsp <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> </a>  &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a>  &nbsp <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intelliJ" width="40" height="40" /> </a> &nbsp <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="40" height="40" /> </a>  &nbsp  <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" width="40" height="40" /> </a>  &nbsp  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="pyCharm" width="40" height="40" /> </a> </p>
-<h3 align="left">Github Stats:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrijit007&show_icons=true&theme=darcula&locale=en" alt="shrijit007" /></p>
+<p align="left"> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intelliJ" width="40" height="40" /> </a> &nbsp <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="40" height="40" /> </a>  &nbsp  <a href="https://www.eclipse.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" width="40" height="40" /> </a>  &nbsp  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="pyCharm" width="40" height="40" /> </a> <img align="right" src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=abd200&style=flat-square" alt="shrijit007" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrijit007&theme=darcula" alt="shrijit007" /></p>
+<p><h3 align="center">Github Stats:</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shrijit007&show_icons=true&theme=merko&locale=en" alt="shrijit007" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shrijit007&theme=merko" alt="shrijit007" /></p>
+
+<p><h3 align="center">Github Contributions:</h3>
+</p>
