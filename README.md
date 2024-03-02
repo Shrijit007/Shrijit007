@@ -29,7 +29,7 @@
 <h3>OS:</h3>
 <p align="left"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" width="40" height="40"/> &nbsp
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
-<img align="right" src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=abd200&style=flat&abbreviated=true" alt="shrijit007" /></p>
+<img align="right" src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=abd200&style=flat&abbreviated=true" alt="shrijit007"/></p>
 
 <h3 align="center">Github Stats:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shrijit007&show_icons=true&theme=merko&locale=en" alt="shrijit007" /></p>
