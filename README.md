@@ -9,7 +9,7 @@
 
 - 📩 Reach me at **shrijitraj@gmail.com**
 
-- 📄 Know about my experiences: [Resume](..)
+- 📄 Know about my experiences: [Resume](https://giphy.com/gifs/hostinger-work-typing-web-hosting-i8e7h6GcdopvVG5Nhm)
 
 - 🍁 **Code like poetry, should be short and concise.**
 
