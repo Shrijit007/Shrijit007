@@ -9,7 +9,7 @@
 
 - 📩 Reach me at **shrijitraj@gmail.com**
 
-- 📄 Visit my Portfolio: [here](https://shrijitraj.netlify.app)
+- 📄 Visit my  [Portfolio](https://shrijitraj.netlify.app)
 
 - 🍁 **Code like poetry, should be short and concise.**
 
