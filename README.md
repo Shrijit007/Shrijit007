@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋🏻, I'm Shrijit Raj!</h1>
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
 &nbsp
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" alt="GIF" height=300 width=250/>
+<img align="right" src="https://media4.giphy.com/media/f3KwliaH4MLtli8z7D/200w.gif?cid=6c09b952jbflc3ky3bmjp9jcrafrbc0ygh74hial59qomv9t&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF" height=300 width=250/>
 
 - 🎓 I’m currently learning **Problem Solving, DSA.**
 
