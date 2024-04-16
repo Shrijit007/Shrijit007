@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
 <img align="right" src="https://github.com/Shrijit007/Shrijit007/blob/snake/Media/output-onlinegiftools.gif?raw=true" alt="GIF" >
 <img align="right" src="https://media4.giphy.com/media/f3KwliaH4MLtli8z7D/200w.gif?cid=6c09b952jbflc3ky3bmjp9jcrafrbc0ygh74hial59qomv9t&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="GIF" height=300 width=250/>
-- 🎓 I’m currently learning **Problem Solving, DSA.**
+- 🎓 I’m currently learning <i>Problem Solving, DSA.</i>
 
 - 💬 Ask me about **C++, Java, Python, HTML, CSS, JavaScript, MySQL**
 
