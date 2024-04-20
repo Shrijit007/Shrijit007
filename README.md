@@ -1,4 +1,4 @@
-<img align="left"  src="https://github.com/Shrijit007/Shrijit007/blob/snake/output-onlinegiftools.gif?raw=true" alt="GIF" height="90%" width="50%" >
+<img align="left"  src="https://github.com/Shrijit007/Shrijit007/blob/snake/output-onlinegiftools.gif?raw=true" alt="GIF" height="60%" width="50%" >
 <h1 align="left"> I'm Shrijit Raj!</h1>
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
 
