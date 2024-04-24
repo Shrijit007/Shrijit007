@@ -9,7 +9,7 @@
 <a href="https://fb.com/shrijit.raj.9" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="shrijit raj" height="40" width="40" /></a>
 <a href="https://instagram.com/_shrijitraj" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="_shrijitraj" height="40" width="40" /></a>
 </p>
-<img align="right" src ="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)"/>
+<img align="right" src ="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko"/>
 
 - 🎓 I’m currently learning <i>Problem Solving, DSA.</i>
 
