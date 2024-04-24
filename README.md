@@ -35,7 +35,7 @@
 
 <h3 align="center">Github Stats:</h3>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=shrijit007&show_icons=true&theme=merko&locale=en" alt="shrijit007" />
+<img  src="https://github-readme-stats.vercel.app/api?username=shrijit007&show_icons=false&theme=merko&locale=en" alt="shrijit007" />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shrijit007&theme=merko" alt="shrijit007" />
 </div>
 
