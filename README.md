@@ -12,7 +12,6 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="shrijit raj" height="40" width="40" />
 <a href="https://instagram.com/_shrijitraj" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="_shrijitraj" height="40" width="40" /></a>
 </p>
-<img align="right" src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5wbHkzMmltdXZ5YmRyM29qZjRpNnY5b24zaXFnY3EwMjh4YTRucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lVZnnXraJX440/giphy.gif"  />
 
 - 🎓 I’m currently learning <i>Problem Solving, DSA.</i>
 
@@ -24,6 +23,7 @@
 
 - 🍁 **Code like poetry, should be short and concise.**
 
+<img align="right" src ="https://media.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif"  />
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> &nbsp </p>
