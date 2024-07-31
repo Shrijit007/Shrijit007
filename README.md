@@ -13,7 +13,7 @@
 
 - 🎓 I’m currently learning <i>Problem Solving, DSA.</i>
 
-- 💬 Ask me about **C++, Java, Python, HTML, CSS, JavaScript, MySQL**
+- 💬 Ask me about **C++, Java, HTML, CSS, JavaScript, MySQL**
 
 - 📩 Reach me at **shrijitraj@gmail.com**
 
