@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Shrijit007/Shrijit007/blob/snake/output-onlinegiftools-ezgif.com-effects.gif?raw=true" alt="GIF" height="70" width="220">
-  <h1 align="center"> &nbsp; &nbsp; &nbsp;I'm Shrijit Raj!</h1>
+  <img src="https://github.com/Shrijit007/Shrijit007/blob/snake/hello.gif?raw=true" alt="GIF" height="60" width="200">
+  <h1 align="center">I'm Shrijit Raj!</h1>
 </div>
 
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
