@@ -1,5 +1,5 @@
 <img align="left" src="https://github.com/Shrijit007/Shrijit007/blob/snake/output-onlinegiftools-ezgif.com-effects.gif?raw=true" alt="GIF" height="70" width="320" >
-<h1 align="left">I'm Shrijit Raj!</h1>
+<h1 align="left">&nbsp; , I'm Shrijit Raj!</h1>
 
 <h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
 
