@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://github.com/Shrijit007/Shrijit007/blob/snake/hello.gif?raw=true" alt="GIF" height="60" width="200">
-  <h1 align="center">I'm Shrijit Raj!</h1>
-</div>
-
-<h3 align="center">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER from India.</h3>
+<img align="left" src ="https://github.com/Shrijit007/Shrijit007/blob/snake/hello.gif?raw=true" alt="GIF" height="73" width="200">
+<h1>&nbsp; , &nbsp; I'm Shrijit Raj</h1>
+<code style="color : name_color">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER, India.</code>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 <h3 align="left">Connect with me:</h3>
