@@ -1,8 +1,12 @@
-<img align="left" src ="https://github.com/Shrijit007/Shrijit007/blob/snake/hello.gif?raw=true" alt="GIF" height="73" width="200">
-<h1>&nbsp; , &nbsp; I'm Shrijit Raj</h1>
-<code style="color : name_color">An aspiring coder👨🏻‍💻 & CSE undergrad🎓 at SOA ITER, India.</code>
+<div align="center">
+<img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/hello.gif?raw=true" alt="GIF" height="73" width="200">
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
+<code style="color : name_color" >I'm <b>Shrijit Raj</b>👾 an <b>aspiring coder</b>👨🏻‍💻 & <b>CSE undergrad</b>🎓 at SOA ITER, India.</code>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,14 +15,10 @@
 <a href="https://instagram.com/_shrijitraj" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="_shrijitraj" height="40" width="40" /></a>
 </p>
 
-- 🎓 I’m currently learning <i>Problem Solving, DSA.</i>
+- 🌐 Visit my  <code style="color : yellowgreen" ><a href="https://shrijitraj.netlify.app">Portfolio⤤</a></code>
 
-- 💬 Ask me about **C++, Java, HTML, CSS, JavaScript, MySQL**
-
-- 📩 Reach me at **shrijitraj@gmail.com**
-
-- 📄 Visit my  [Portfolio](https://shrijitraj.netlify.app)
-
+- 💬 Reach me at <code style="color : yellowgreen" ><a href="mailto:shrijitraj@gmail.com">Email⤤</a></code>
+ 
 - 🍁 **Code like poetry, should be short and concise.**
 
 <img align="right" src ="https://media.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif"  />
