@@ -1,5 +1,5 @@
 <div align="center">
-<img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/output-onlinegiftools.gif?raw=true">
+<img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/output-onlinegiftools.gif?raw=true" height="95" width="700">
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
