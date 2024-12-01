@@ -2,7 +2,6 @@
 <img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/output-onlinegiftools.gif?raw=true" height="95" width="700">
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
 <code style="color : name_color" >I'm <b>Shrijit Raj</b>👾 an <b>aspiring coder</b>👨🏻‍💻 & <b>CSE undergrad</b>🎓 at SOA ITER, India.</code>
@@ -21,17 +20,18 @@
  
 - 🍁 **Code like poetry, should be short and concise.**
 
-<img align="right" src ="https://media.tenor.com/TyhWL7gJwPgAAAAj/peppo-dance.gif"  />
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> &nbsp </p>
+<p align="left"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg" alt="mysql" width="40" height="40"/> &nbsp </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intelliJ" width="40" height="40" /> &nbsp  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="40" height="40" />   &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VScode" width="40" height="40" /> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" width="40" height="40" /> </p>
 
 <h3>OS:</h3>
-<p align="left"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" width="40" height="40"/> &nbsp
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="Linux" width="40" height="40"/>
+<p align="left">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Apple-Dark.svg" alt="Linux" width="40" height="40"/>
+&nbsp
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="Windows" width="40" height="40"/> 
 <img align="right" src="https://komarev.com/ghpvc/?username=shrijit007&label=Profile%20views&color=abd200&style=flat&abbreviated=true" alt="shrijit007"/></p>
 
 <h3 align="center">Github Stats:</h3>
