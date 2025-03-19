@@ -1,6 +1,6 @@
 <div align="center">
 <img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/banner.png">
-💬 Reach me at <code style="color : yellowgreen" ><a href="mailto:shrijitraj@gmail.com">Email ⤤</a></code> / <code style="color : yellowgreen" ><a href="shrijitraj.netlify.app">Portfolio ⤤</a></code>
+💬 Reach me at <code style="color : yellowgreen" ><a href="mailto:shrijitraj@gmail.com">Email ⤤</a></code> / <code style="color : yellowgreen" ><a href="https://shrijitraj.netlify.app/">Portfolio ⤤</a></code>
 </div>
 
 
