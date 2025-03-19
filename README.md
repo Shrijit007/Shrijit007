@@ -1,7 +1,7 @@
 <div align="center">
 <img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/hello.gif?raw=true" height="95" width="700">
 </div>
-
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHU_-9nb45okg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722870708391?e=1747872000&v=beta&t=s2tCuLmNBFlxIyZwahAiuiMOeXH9rwglOcwNbxMU6mE">
 <div align="center">
 <code>I'm <b>Shrijit Raj</b>👾 an <b>aspiring coder</b>👨🏻‍💻 & <b>CSE undergrad</b>🎓 at SOA ITER, India.</code>
 </div>
