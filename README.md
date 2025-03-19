@@ -1,30 +1,13 @@
 <div align="center">
-<img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/hello.gif?raw=true" height="95" width="700">
+<img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/banner.png">
+💬 Reach me at <code style="color : yellowgreen" ><a href="mailto:shrijitraj@gmail.com">Email ⤤</a></code> / <code style="color : yellowgreen" ><a href="shrijitraj.netlify.app">Portfolio ⤤</a></code>
 </div>
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHU_-9nb45okg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722870708391?e=1747872000&v=beta&t=s2tCuLmNBFlxIyZwahAiuiMOeXH9rwglOcwNbxMU6mE">
-<div align="center">
-<code>I'm <b>Shrijit Raj</b>👾 an <b>aspiring coder</b>👨🏻‍💻 & <b>CSE undergrad</b>🎓 at SOA ITER, India.</code>
-</div>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shrijit-raj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="shrijit raj" height="40" width="40" /></a>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="shrijit raj" height="40" width="40" />
-<a href="https://instagram.com/_shrijitraj" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="_shrijitraj" height="40" width="40" /></a>
-</p>
-
-- 🌐 Visit my  <code style="color : yellowgreen" ><a href="https://shrijitraj.netlify.app">Portfolio⤤</a></code>
-
-- 💬 Reach me at <code style="color : yellowgreen" ><a href="mailto:shrijitraj@gmail.com">Email⤤</a></code>
- 
-- 🍁 **Code like poetry, should be short and concise.**
 
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg" alt="mysql" width="40" height="40"/> &nbsp </p>
-
-<h3 align="left">Tools:</h3>
-<p align="left"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" alt="intelliJ" width="40" height="40" /> &nbsp  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VScode" width="40" height="40" />  &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" width="40" height="40" /> </p>
+<p align="left"> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg" alt="mysql" width="40" height="40"/> &nbsp <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="mysql" width="40" height="40"/> &nbsp <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JQuery.svg" alt="mysql" width="40" height="40"/> 
+</p>
 
 <h3>OS:</h3>
 <p align="left">
