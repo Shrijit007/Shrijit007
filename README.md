@@ -1,5 +1,5 @@
 <div align="center">
-<img src ="https://github.com/Shrijit007/Shrijit007/blob/snake/GIF%20Compressor%20Result%20(2).gif?raw=true"><br><br>
+<img alt="Loading..." src ="https://github.com/Shrijit007/Shrijit007/blob/snake/GIF%20Compressor%20Result%20(2).gif?raw=true"><br><br>
 💬 Reach me at <code style="color : yellowgreen" ><a href="mailto:shrijitraj@gmail.com">Email ⤤</a></code> / <code style="color : yellowgreen" ><a href="https://shrijitraj.netlify.app/">Portfolio ⤤</a></code>
 </div>
 
@@ -21,6 +21,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=shrijit007&show_icons=false&theme=merko&locale=en" alt="shrijit007" />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=shrijit007&theme=merko" alt="shrijit007" />
 </div>
-
+<!--
 <p><h3 align="center">Github Contributions:</h3></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrijit007&bg_color=0d1117&color=4c8a62&line=abd200&point=c4c4c4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+-->
